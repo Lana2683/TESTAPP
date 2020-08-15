@@ -5,6 +5,7 @@ git clone https://github.com/Lana2683/TESTAPP.git
 cd TESTAPP
 git pull origin homework_1
 cd auth-server
+npm i
 node authorization_code/app.js
 ```
 in new terminal
