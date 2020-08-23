@@ -7,7 +7,7 @@ class ListOfTypeButtons extends Component {
                 <button type="button" class="btn btn-secondary btn-sm">Album</button>
                 <button type="button" class="btn btn-secondary btn-sm">Artist</button>
                 <button type="button" class="btn btn-secondary btn-sm">Playlist</button>
-                <button type="button" class="btn btn-secondary btn-sm">Playlist</button>
+                <button type="button" class="btn btn-secondary btn-sm">Track</button>
             </div>
         )
     }

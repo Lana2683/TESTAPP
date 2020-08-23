@@ -8,7 +8,7 @@ class ListofArtistItems extends Component {
                 id: 1,
                 name: 'Artist',
                 link: '#',
-                genre: 'indi',
+                genre: 'indie',
                 img: 'https://picsum.photos/160/130'
             },
             {

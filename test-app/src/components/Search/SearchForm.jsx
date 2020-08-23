@@ -9,7 +9,7 @@ class SearchForm extends Component {
         return (
             <div className="bg-primary py-4" style={{minHeight: "100%", width: "260px"}}>
                 <form className="d-flex flex-column">
-                    <h2>I want find</h2>
+                    <h2>I want to find</h2>
                     <SearchField />
                     <ListofTypeButtoms />
                     <ListofLimitButtons />
